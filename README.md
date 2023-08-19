@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **API project**
 
-- 🌱 I’m currently learning **Frameworks and backend courses**
+- 🌱 I’m currently learning **backend courses**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
