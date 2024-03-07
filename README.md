@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nameispriyanka05@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/priyanka-kumari-251431pk](www.linkedin.com/in/priyanka-kumari-251431pk)
+- 📄 Know about my experiences [www.linkedin.com/in/priyanka-kumari-251431pk/](www.linkedin.com/in/priyanka-kumari-251431pk/)
 
 - ⚡ Fun fact **That math symbol on Ed Sheeran's album has a name!**
 
