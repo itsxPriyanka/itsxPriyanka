@@ -18,13 +18,13 @@
 
 - 📫 How to reach me **nameispriyanka05@gmail.com**
 
-- 📄 Know about my experience[www.linkedin.com/in/priyanka-kumari-251431pk/](www.linkedin.com/in/priyanka-kumari-251431pk/)
+- 📄 Know about my experience[https://www.linkedin.com/in/priyanka-kumari02/](https://www.linkedin.com/in/priyanka-kumari02/)
 
 - ⚡ Fun fact **That math symbol on Ed Sheeran's album has a name!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/priyanka-kumari-251431pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanka-kumari-251431pk" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/priyanka-kumari02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanka-kumari02/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
