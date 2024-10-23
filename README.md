@@ -1,33 +1,23 @@
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/23/da/92/23da92aacaadd885740ef9f878a2f810.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsxpriyanka&label=Profile%20views&color=0e75b6&style=flat" alt="itsxpriyanka" /> </p>
 
 - 🔭 I’m currently working on **API project**
-
 - 🌱 I’m currently learning **backend courses**
-
-- 👯 I’m looking to collaborate on **frontend projects**
-
-- 🤝 I’m looking for help with **Data Analyst projects**
-
+- 👯 I’m looking to collaborate on **full stack projects**
+- 👨‍💻 I’m currently working as a **Full Stack Developer**
 - 👨‍💻 All of my projects are available at [https://github.com/itsxPriyanka](https://github.com/itsxPriyanka)
-
 - 💬 Ask me about **Frontend development, python**
-
 - 📫 How to reach me **nameispriyanka05@gmail.com**
-
-- 📄 Know about my experience[https://www.linkedin.com/in/priyanka-kumari02/](https://www.linkedin.com/in/priyanka-kumari02/)
-
+- 📄 Know about my experience [https://www.linkedin.com/in/priyanka-kumari02/](https://www.linkedin.com/in/priyanka-kumari02/)
 - ⚡ Fun fact **That math symbol on Ed Sheeran's album has a name!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/priyanka-kumari02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanka-kumari02/" height="30" width="40" /></a>
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -77,8 +67,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
 </p>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsxpriyanka&show_icons=true&locale=en&layout=compact" alt="itsxpriyanka" /></p>
 
