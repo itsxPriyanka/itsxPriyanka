@@ -70,11 +70,7 @@
 
 
 <h3 align="center">Top Contributed Repo:</h3>
-![](https://github-contributor-stats.vercel.app/api?username=itsxpriyanka&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=itsxpriyanka&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayushcodekid&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
