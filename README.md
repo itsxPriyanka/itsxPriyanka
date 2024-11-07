@@ -59,14 +59,13 @@
 </p>
 
 
-<!-- Contributor Stats -->
-![](https://github-contributor-stats.vercel.app/api?username=itsxpriyanka&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<!-- GitHub Contributor Stats with white background -->
+<div style="background-color: white; padding: 20px;">
+  ![](https://github-contributor-stats.vercel.app/api?username=itsxpriyanka&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+</div>
 
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsxpriyanka&show_icons=true&locale=en&layout=compact" alt="itsxpriyanka" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsxpriyanka&show_icons=true&locale=en" alt="itsxpriyanka" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsxpriyanka&" alt="itsxpriyanka" /></p>
-
----
-[![](https://visitcount.itsvg.in/api?id=Ayushcodekid&icon=0&color=1)](https://visitcount.itsvg.in)
 
