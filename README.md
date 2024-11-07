@@ -58,9 +58,11 @@
   <img src="https://img.shields.io/badge/CanvasJS-%2338B2AC.svg?style=for-the-badge" alt="CanvasJS" />
 </p>
 
+<!-- GitHub Contributor Stats with white background -->
+<div style="background-color: white; padding: 20; border-radius: 8;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=itsxpriyanka&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</div>
 
-<!-- GitHub Contributor Stats -->
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=itsxpriyanka&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsxpriyanka&show_icons=true&locale=en&layout=compact" alt="itsxpriyanka" /></p>
